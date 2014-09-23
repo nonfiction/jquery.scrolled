@@ -44,4 +44,4 @@ at the bottom of the page.
 
 ### Demo
 
-See the included `index.html` for a couple use cases.
+See the included `index.html` for a couple use cases. <http://nonfiction.github.io/jquery.scrolled/>
