@@ -4,7 +4,7 @@
   "authors": [
     "Andy VanEe <1andyvanee@gmail.com>"
   ],
-  "description": "Fire events or toggle classes based on scroll distance",
+  "description": "Callbacks, events and class toggling based on scroll events",
   "main": "jquery.scrolled.js",
   "keywords": [
     "scroll",
